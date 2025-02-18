@@ -2,4 +2,4 @@
 - 👀 Estou interessado em: Programação de softwares
 - 🌱 Atualmente estou aprendendo: Python
 - 📫 Como entrar em contato comigo: lucasarcoverdem@gmail.com
-- ⚡ Curiosidade: 13 anos
+- ⚡ Curiosidade:
