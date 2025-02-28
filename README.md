@@ -1,5 +1,5 @@
-- 👋 Olá, sou @lucasarcoverdem
-- 👀 Estou interessado em: Programação de softwares
-- 🌱 Atualmente estou aprendendo: Python
-- 📫 Como entrar em contato comigo: lucasarcoverdem@gmail.com
-- ⚡ Curiosidade:
+Olá, me chamo Lucas e tenho 13 anos. Estou começando na programação Full-Stack.
+
+Python: 3 meses
+HTML & CSS: 2 meses
+Javascript: 1 mês
