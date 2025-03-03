@@ -14,8 +14,8 @@
 
 <nav>
   <ui>
-    <li>Python: 3 meses</li>
-    <li>HTML & CSS: 2 meses</li>
+    <li>Python: 5 meses</li>
+    <li>HTML & CSS: 3 meses</li>
     <li>Javascript: 1 mês</li>
   </ui>
 </nav>
