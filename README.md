@@ -14,8 +14,9 @@
 
 <nav>
   <ui>
-    <li>Python: 5 meses</li>
-    <li>HTML & CSS: 3 meses</li>
-    <li>Javascript: 1 mês</li>
+    <li>Python intermediário</li>
+    <li>HTML & CSS intermediário</li>
+    <li>Javascript iniciante</li>
+    <li>Java iniciante</li>
   </ui>
 </nav>
