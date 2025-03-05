@@ -14,9 +14,9 @@
 
 <nav>
   <ui>
-    <li>Python intermediário</li>
-    <li>HTML & CSS intermediário</li>
-    <li>Javascript iniciante</li>
-    <li>Java iniciante</li>
+    <li>Python</li>
+    <li>HTML & CSS</li>
+    <li>Javascript</li>
+    <li>Java</li>
   </ui>
 </nav>
