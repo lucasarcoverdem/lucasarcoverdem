@@ -18,5 +18,6 @@
     <li>HTML & CSS</li>
     <li>Javascript</li>
     <li>Java</li>
+    <li>GDScript</li>
   </ui>
 </nav>
