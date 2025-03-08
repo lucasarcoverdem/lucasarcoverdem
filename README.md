@@ -1,23 +1,66 @@
-<h1>Lucas Arcoverde</h1>
+# 👨🏾‍💻 Lucas Arcoverde
 
-<h2>Dev Full-Stack</h2>
+**`Desenvolvedor FullStack`**
 
-<nav>
-  <ui>
-    <li>Pernambuco</li>
-    <li>13 anos</li>
-    <li><a href="mailto:lucasarcoverdem@gmail.com">lucasarcoverdem@gmail.com<a></li>
-  </ui>
-</nav>
+Olá! Sou Lucas Arcoverde, tenho 13 anos e venho de Pernambuco. Estou cursando o ultimo ano do ensino fundamental e pretendo estudar na Escola Técnica Estadual de Pernambuco e seguir para a UPE Campus Garanhuns para estudar Engenharia de Software.
 
-<h2>Skills</h2>
+### 🤖 Tecnologias
 
-<nav>
-  <ui>
-    <li>Python</li>
-    <li>HTML & CSS</li>
-    <li>Javascript</li>
-    <li>Java</li>
-    <li>GDScript</li>
-  </ui>
-</nav>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=lucasarcoverdem&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarcoverdem&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
