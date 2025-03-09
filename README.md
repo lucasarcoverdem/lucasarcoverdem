@@ -47,7 +47,7 @@ Olá! Sou Lucas Arcoverde, tenho 13 anos e venho de Pernambuco. Estou cursando o
 
 ### 📊 Estatísticas
 
-<div align="left">
+<div align="center">
     <p>
       <img 
         align="left" 
