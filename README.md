@@ -49,13 +49,6 @@ Olá! Sou Lucas Arcoverde, tenho 13 anos e venho de Pernambuco. Estou cursando o
 
 <div align="center">
     <p>
-      <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=lucasarcoverdem&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-      />
     <img 
           align="left" 
           alt="GitHub Stats" 
