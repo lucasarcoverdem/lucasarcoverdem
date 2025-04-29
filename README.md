@@ -2,8 +2,6 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Sou Lucas Arcoverde, tenho 13 anos e venho de Pernambuco. Estou cursando o ultimo ano do ensino fundamental e pretendo estudar na Escola Técnica Estadual de Pernambuco e seguir para a UPE Campus Garanhuns para estudar Engenharia de Software.
-
 ### 🤖 Tecnologias
 
 <img 
